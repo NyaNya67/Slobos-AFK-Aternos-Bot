@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "xiaovenSMP2.aternos.me",
+    "port": 11014,
     "version": "",
     "try-creative": false
   },
